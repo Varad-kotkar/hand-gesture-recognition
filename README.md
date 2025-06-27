@@ -61,7 +61,7 @@ This project trains a CNN model to classify 10 hand gestures captured under diff
 ## 🧑‍💻 Author
 
 **Varad Kotkar**
-[GitHub](https://github.com/Varad-kotkar) • [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/Varad-kotkar) • [LinkedIn](www.linkedin.com/in/varad-kotkar-1b5011294)
 
 ## ✨ License
 
